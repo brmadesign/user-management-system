@@ -10,13 +10,13 @@ User Management System
 
 **Shortcut** to core JS files of the app:
 * Ums.App class<br /> 
-https://github.com/Bretick/user-management-system/blob/master/umsapp/app/Ums.js
+https://github.com/brmadesign/user-management-system/blob/master/umsapp/app/Ums.js
 * Ums.AppModel class<br /> 
-https://github.com/Bretick/user-management-system/blob/master/umsapp/app/AppModel.js
+https://github.com/brmadesign/user-management-system/blob/master/umsapp/app/AppModel.js
 * Ums.AppView class<br /> 
-https://github.com/Bretick/user-management-system/blob/master/umsapp/app/AppView.js
+https://github.com/brmadesign/user-management-system/blob/master/umsapp/app/AppView.js
 * Ums.AppController class<br /> 
-https://github.com/Bretick/user-management-system/blob/master/umsapp/app/AppController.js
+https://github.com/brmadesign/user-management-system/blob/master/umsapp/app/AppController.js
 
 
 Assignment of the task
